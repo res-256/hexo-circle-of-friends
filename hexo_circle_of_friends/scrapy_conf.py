@@ -24,7 +24,7 @@ HTTP_PROXY_URL = ""
 # ]
 FRIENDPAGE_LINK = [
     {
-        "link": "https://akilar.top/link/",  # 友链页地址1，修改为你的友链页地址
+        "link": "https://z555.icu/link/",  # 友链页地址1，修改为你的友链页地址
         "theme": "butterfly"
     },
 ]
